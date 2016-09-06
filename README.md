@@ -8,4 +8,5 @@ It will be more convenient to turn permissions on in the app :)
 Our group has some big plans for this app, stay tuned!
 
 version 0.1-alpha
+
 Initial commit
